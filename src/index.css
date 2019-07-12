@@ -5,6 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding: 15%;
+  text-align: center
+}
+body{
+  background-color: rgba(80, 11, 11, 0.99)
+}
+
+button{
+  background: #8bc34a;
+}
+h1{
+  color: #ffffff
+
 }
 
 code {
